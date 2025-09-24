@@ -35,5 +35,3 @@ Análise de Marketing
 Email: isaiaslorandi@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/isaíasmussi/
-
-<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D1E90FF%26height%3D120%26section%3Dfooter"/>
