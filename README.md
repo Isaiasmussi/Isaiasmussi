@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
 👨‍💻 Sobre Mim | About Me
 
 <p align="left">
@@ -30,6 +32,8 @@ Análise de Marketing
 
 📫 Conecte-se Comigo | Connect with Me
 
-Email: SEU-EMAIL-AQUI@example.com
+Email: isaiaslorandi@gmail.com
 
-LinkedIn: https://linkedin.com/in/SEU-LINKEDIN-AQUI
+LinkedIn: https://www.linkedin.com/in/isaíasmussi/
+
+<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D1E90FF%26height%3D120%26section%3Dfooter"/>
